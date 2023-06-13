@@ -1,4 +1,4 @@
-# Airbnb-Clone
+# Netflix-Clone
 
 > Netflix is an American subscription video on-demand over-the-top streaming service owned and operated by Netflix, Inc., a company based in Los Gatos, California.
 
